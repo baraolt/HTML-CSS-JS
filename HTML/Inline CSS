@@ -1,3 +1,5 @@
+/// Inline CSS goes in the Header, between <style> </style> tags
+
 <!DOCTYPE html>
 <html>
 	<head>
