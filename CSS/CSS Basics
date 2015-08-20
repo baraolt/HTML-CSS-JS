@@ -9,3 +9,26 @@ p {
 /// Comments
 
 /*I'm a comment!*/
+
+/// Hex Colors
+
+Search for "hex color palette" or "hex color picker" with your favorite web browser to find a bunch of options!
+
+/// Relative text sizing
+
+The font-size unit em is a relative measure:
+one em is equal to the default font size on whatever screen the user is using.
+That makes it great for smartphone screens, since it doesn't try to tell the smartphone exactly how big to make a font:
+it just says, "Hey, 1em is the font size that you normally use, so 2em is twice as big and 0.5em is half that size!"
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+	</head>
+	<body>
+		<p style="font-size: 1em">One em!</p>
+		<p style="font-size: 0.5em">Half an em!</p>
+		<p style="font-size: 2em">TWO EM!</p>
+	</body>
+</html>
