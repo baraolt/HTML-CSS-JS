@@ -1,3 +1,5 @@
+/// A table with headings, 2 columns, and 3 rows
+
     <body>
         
         <table border="1px">
