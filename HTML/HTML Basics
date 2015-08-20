@@ -31,3 +31,6 @@
 'bold an italic
 
 <strong></strong>  <em></em>
+
+'insert picture
+<img src="https://s3.amazonaws.com/codecademy-blog/assets/ninja_zpsa5dbe37a.jpg" />
