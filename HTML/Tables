@@ -1,9 +1,17 @@
-/// A table with headings, 2 columns, and 3 rows
+/// A table with 2 headings, 2 columns, and 3 rows
 
+<html>
+    <head>
+        <title>Table Time</title>
+    </head>
+    
     <body>
         
         <table border="1px">
             <thead>
+                <tr>
+                    <th colspan="2">Famous Monsters by Birth Year</th>
+                </tr>
                 <tr>
                     <th>Famous Monster</th>
                     <th>Birth Year</th>
@@ -28,3 +36,5 @@
         </table>
         
     </body>
+
+</html>
