@@ -1,3 +1,6 @@
+'Comment
+<!-- comment comes here -->
+
 'Ordered list
 <ol>
   <li></li>
@@ -25,3 +28,6 @@
 'mixing more
 <p style="font-family: Arial; color: blue; text-align: center"> </p>
 
+'bold an italic
+
+<strong></strong>  <em></em>
