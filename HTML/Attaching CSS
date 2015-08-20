@@ -14,3 +14,17 @@
 		<p>Check it out! I'm purple!</p>
 	</body>
 </html>
+
+
+/// Linking CSS goes also in Header
+
+<!DOCTYPE html>
+<html>
+	<head>
+	    <link type="text/css" rel="stylesheet" href="stylesheet.css">
+		<title>Result</title>
+	</head>
+	<body>
+		<p>I want to be SIZE 44 font!</p>
+	</body>
+</html>
