@@ -1,0 +1,27 @@
+'Ordered list
+<ol>
+  <li></li>
+</ol>
+
+'Unordered list
+<ul>
+  <li></li>
+</ul>
+
+'style attributes can be added to anything (body, paragraph, lists)
+
+'background color
+<body style="background-color: brown"> </body>
+
+'font size
+<p style="font-size: 20px"> </p>
+
+'font type
+<p style="font-family: Arial"> </p>
+
+'alignment
+<p style="text-align: center"> </p>
+
+'mixing more
+<p style="font-family: Arial; color: blue; text-align: center"> </p>
+
