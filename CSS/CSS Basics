@@ -1,0 +1,11 @@
+/// Setting properties for a paragraph
+
+p {
+    font-family: Arial;
+    color: blue;
+    font-size: 24px;
+}
+
+/// Comments
+
+/*I'm a comment!*/
