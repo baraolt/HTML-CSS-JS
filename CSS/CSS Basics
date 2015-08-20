@@ -24,6 +24,14 @@ p {
 
 /Search for "hex color palette" or "hex color picker" with your favorite web browser to find a bunch of options!
 
+/// remove link decoarion
+
+a {
+    color: #cc0000;
+    text-decoration: none;
+}
+
+
 /// Relative text sizing
 
 /The font-size unit em is a relative measure:
