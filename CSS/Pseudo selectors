@@ -1,0 +1,25 @@
+/// Change link style on mouseover
+
+a:hover {
+	color: #cc0000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+/// More:
+
+a:link: An unvisited link.
+a:visited: A visited link.
+a:hover: A link you're hovering your mouse over.
+
+/// set style for first of the kind
+
+p:first-child {
+    color: red;
+}
+
+/// Nth member
+
+p:nth-child(2) {
+    color: red;
+}
