@@ -1,0 +1,18 @@
+/// CLASS
+HTML
+<p class="fancy">Aaaaa</p>
+
+CSS
+.class {
+  color: violet
+}
+
+
+/// ID
+HTML
+<p id="fancy">Aaaa</p>
+
+CSS
+#fancy {
+  color: violet
+}
