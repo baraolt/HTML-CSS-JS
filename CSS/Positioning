@@ -1,0 +1,15 @@
+float: left, right
+
+clear: left, right, both
+
+display: block, inline, inline-block
+
+position: relative, absolute, fixed
+
+z-index: 1, 2, ...
+
+margin: auto
+margin-top: 10px;
+margin: 10px 5px 6px 10px;
+
+padding: 20px; 
