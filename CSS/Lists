@@ -1,0 +1,4 @@
+///Square type bulletpoint:
+li {
+	list-style-type: square;
+}
