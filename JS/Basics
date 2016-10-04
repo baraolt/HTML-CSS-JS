@@ -1,0 +1,10 @@
+// prints nyc's properties:
+for (var prop in nyc) {
+  console.log(prop)
+}
+
+//Prints propery values:
+for (var prop in nyc) {
+  console.log(prop[x])
+}
+
